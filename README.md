@@ -1,4 +1,6 @@
 GUI-for-The-Project-Generator
 =============================
 
-GUI for The Project Generator (openFrameworks) 
+
+
+This is my small contribution to the wonderful Project Generator in openFrameworks.
